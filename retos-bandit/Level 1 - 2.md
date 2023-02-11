@@ -25,11 +25,15 @@ bandit1@bandit:~$
 ## Notas adicionales
 
 #### Comandos linux
-**cat ./-** Para imprimir archivos nombrados - , se puede especificar la ruta.
-**cat < -** También redireccionar la salida. 
-**pwd** imprimir la ruta que tiene el directorio actual
-**cat ruta** Otra forma de imprimir es utilizando la ruta completa del archivo.
+-**cat ./-** Para imprimir archivos nombrados - , se puede especificar la ruta.
+
+-**cat < -** También redireccionar la salida. 
+
+-**pwd** imprimir la ruta que tiene el directorio actual
+
+-**cat ruta** Otra forma de imprimir es utilizando la ruta completa del archivo.
 
 ## Referencias
 https://stackoverflow.com/questions/42187323/how-to-open-a-dashed-filename-using-terminal
+
 Material del profesor.
