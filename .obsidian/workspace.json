@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ac27e2423cb7f46e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9a8a9d4182e04487",
             "type": "leaf",
             "state": {
@@ -62,6 +50,18 @@
               "type": "markdown",
               "state": {
                 "file": "retos-bandit/Level 1 - 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "147f44bf40047a4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos-bandit/Level 2 - 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Level 1 - 2.md",
+                "file": "retos-bandit/Level 2 - 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Level 1 - 2.md",
+                "file": "retos-bandit/Level 2 - 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Level 1 - 2.md"
+                "file": "retos-bandit/Level 2 - 3.md"
               }
             }
           }
@@ -195,12 +195,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "137749ae1326be48",
+  "active": "147f44bf40047a4b",
   "lastOpenFiles": [
-    "retos-bandit/Level 0 - 1.md",
     "retos-bandit/Level 1 - 2.md",
+    "retos-bandit/Level 2 - 3.md",
     "retos-bandit/Plantilla.md",
-    "retos-bandit/Level 0.md",
-    "README.md"
+    "README.md",
+    "retos-bandit/Level 0 - 1.md",
+    "retos-bandit/Level 0.md"
   ]
 }
