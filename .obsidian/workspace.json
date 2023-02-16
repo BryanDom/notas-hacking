@@ -186,9 +186,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "638b53555c6b77a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos-bandit/Level 14 - 15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -254,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Level 13 - 14.md",
+                "file": "retos-bandit/Level 14 - 15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Level 13 - 14.md",
+                "file": "retos-bandit/Level 14 - 15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Level 13 - 14.md"
+                "file": "retos-bandit/Level 14 - 15.md"
               }
             }
           }
@@ -315,9 +327,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4b0323ca1527d4c9",
+  "active": "638b53555c6b77a1",
   "lastOpenFiles": [
     "retos-bandit/Level 12 - 13.md",
+    "retos-bandit/Level 14 - 15.md",
     "retos-bandit/Level 13 - 14.md",
     "retos-bandit/Plantilla.md",
     "retos-bandit/Level 11 - 12.md",
@@ -325,7 +338,6 @@
     "retos-bandit/Level 9 - 10.md",
     "retos-bandit/Level 10 - 11.md",
     "Untitled.md",
-    "retos-bandit/Level 0 - 1.md",
-    "retos-bandit/Level 0.md"
+    "retos-bandit/Level 0 - 1.md"
   ]
 }
