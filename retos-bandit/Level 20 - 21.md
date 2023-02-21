@@ -44,8 +44,6 @@ Estamos abriendo un puerto "2020", en el cual por "defecto" le estamos pasando l
 
 - **-p**: Comando que permite especificar el puerto al que conectarse. 
 
-en este caso 
-
 ## Referencias
 - https://ccia.esei.uvigo.es/docencia/SCS/1011/practicas/practica-1/index.html#:~:text=interfaz%20de%20SOCKETS.-,Comando%20nc%2Fnetcat,UDP)%20de%20la%20m%C3%A1quina%20local.
 - https://www.neoguias.com/comando-nc/
