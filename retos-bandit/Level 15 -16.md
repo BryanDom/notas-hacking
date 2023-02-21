@@ -3,7 +3,7 @@ The password for the next level can be retrieved by submitting the password of t
 
 **Helpful note: Getting “HEARTBEATING” and “Read R BLOCK”? Use -ign_eof and read the “CONNECTED COMMANDS” section in the manpage. Next to ‘R’ and ‘Q’, the ‘B’ command also works in this version of that command…**
 ## Datos de acceso al nivel
--   user -> **bandit14**
+-   user -> **bandit15**
 -   Password -> jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt
 -   host -> **bandit.labs.overthewire.org**
 ## Solución
