@@ -38,7 +38,7 @@ bandit22@bandit:~$
 ## Notas adicionales
 
 #### Definiciones que entender
-- Usando cat /usr/bin/cronjob bandit23.sh podemos ver que es un script que toma un parámetro. 
-- En el cual esto podemos cambiar las variables (en este caso bandit23 como nombre).
+-   Usando cat /usr/bin/cronjob bandit23.sh podemos ver que es un script que toma un parámetro.
+-   En el cual esto podemos cambiar las variables (en este caso bandit23 como nombre).
 
 ## Referencias
