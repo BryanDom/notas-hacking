@@ -35,7 +35,7 @@ Oh, help? I actually don't do much, but I do have this flag here: picoCTF{b1scu1
 
 ```
 
-### `picoCTF{s4n1ty_v3r1f13d_28e8376d}`
+### `picoCTF{b1scu1ts_4nd_gr4vy_18788aaa}  `
 
 ## Notas adicionales
 
