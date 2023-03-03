@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "83d6d02ff16b17f1",
+        "id": "53a0e148136645b3",
         "type": "tabs",
         "children": [
           {
-            "id": "840dc3debc30eed6",
+            "id": "c8cc787d3d647e9b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF/PicoCTF 2019/General Skills/strings it.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "24d337e637b442f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Level 16 - 17.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/PicoCTF 2019/General Skills/strings it.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/PicoCTF 2019/General Skills/strings it.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PicoCTF/PicoCTF 2019/General Skills/strings it.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,15 +138,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "840dc3debc30eed6",
+  "active": "deedb45c2af9fb4f",
   "lastOpenFiles": [
-    "retos-bandit/Level 16 - 17.md",
+    "PicoCTF/PicoCTF 2019/General Skills/plumbing.md",
+    "PicoCTF/PicoCTF 2019/General Skills/mus1c.md",
+    "PicoCTF/PicoCTF 2019/General Skills/First Grep.md",
+    "PicoCTF/PicoCTF 2019/General Skills/Based.md",
     "PicoCTF/PicoCTF 2019/General Skills/strings it.md",
-    "retos-bandit/Level 21 - 22.md",
-    "PicoCTF/PicoCTF 2019/General Skills/2Warm.md",
+    "PicoCTF/PicoCTF 2019/General Skills/Lest Warm Up.md",
     "PicoCTF/PicoCTF 2019/General Skills/what's a net cat.md",
     "PicoCTF/PicoCTF 2019/General Skills/Warmed Up.md",
-    "PicoCTF/PicoCTF 2019/General Skills/Lest Warm Up.md",
+    "PicoCTF/PicoCTF 2019/General Skills/Bases.md",
+    "retos-bandit/Level 16 - 17.md",
+    "retos-bandit/Level 21 - 22.md",
+    "PicoCTF/PicoCTF 2019/General Skills/2Warm.md",
     "retos-bandit/Level 0 - 1.md",
     "retos-bandit/Level 27 - 28.md",
     "retos-bandit/Plantilla.md",
@@ -183,11 +168,6 @@
     "retos-bandit/Level 29 - 30.md",
     "retos-bandit/Level 25 - 26.md",
     "retos-bandit/Level 23 - 24.md",
-    "retos-bandit/Level 11 - 12.md",
-    "retos-bandit/Level 22 - 23.md",
-    "retos-bandit/Level 19 - 20.md",
-    "retos-bandit/Level 18 - 19.md",
-    "retos-bandit/Level 17 - 18.md",
-    "retos-bandit/Level 20 - 21.md"
+    "retos-bandit/Level 11 - 12.md"
   ]
 }
