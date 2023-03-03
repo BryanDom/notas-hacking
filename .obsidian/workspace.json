@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "53a0e148136645b3",
+        "id": "d0366b0970d7509c",
         "type": "tabs",
         "children": [
           {
-            "id": "c8cc787d3d647e9b",
+            "id": "1ee0af4b05872dfe",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,10 +138,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "deedb45c2af9fb4f",
+  "active": "1ee0af4b05872dfe",
   "lastOpenFiles": [
-    "PicoCTF/PicoCTF 2019/General Skills/plumbing.md",
+    "PicoCTF/PicoCTF 2021/General Skills",
+    "PicoCTF/PicoCTF 2021/Untitled.md",
     "PicoCTF/PicoCTF 2019/General Skills/mus1c.md",
+    "PicoCTF/PicoCTF 2021",
+    "PicoCTF/PicoCTF 2019/General Skills/plumbing.md",
     "PicoCTF/PicoCTF 2019/General Skills/First Grep.md",
     "PicoCTF/PicoCTF 2019/General Skills/Based.md",
     "PicoCTF/PicoCTF 2019/General Skills/strings it.md",
@@ -166,8 +169,6 @@
     "retos-bandit/Level 31 - 32.md",
     "retos-bandit/Level 30 - 31.md",
     "retos-bandit/Level 29 - 30.md",
-    "retos-bandit/Level 25 - 26.md",
-    "retos-bandit/Level 23 - 24.md",
-    "retos-bandit/Level 11 - 12.md"
+    "retos-bandit/Level 25 - 26.md"
   ]
 }
