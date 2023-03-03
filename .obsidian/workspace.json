@@ -11,8 +11,12 @@
             "id": "1ee0af4b05872dfe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/PicoCTF 2021/General Skills/Wave a flag.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PicoCTF/PicoCTF 2021/General Skills/Wave a flag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PicoCTF/PicoCTF 2021/General Skills/Wave a flag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PicoCTF/PicoCTF 2021/General Skills/Wave a flag.md"
+              }
             }
           }
         ]
@@ -140,13 +148,15 @@
   },
   "active": "1ee0af4b05872dfe",
   "lastOpenFiles": [
+    "PicoCTF/PicoCTF 2021/General Skills/Obedient Cat.md",
+    "PicoCTF/PicoCTF 2021/General Skills/Wave a flag.md",
+    "PicoCTF/PicoCTF 2019/General Skills/First Grep.md",
+    "PicoCTF/PicoCTF 2019/General Skills/Based.md",
     "PicoCTF/PicoCTF 2021/General Skills",
     "PicoCTF/PicoCTF 2021/Untitled.md",
     "PicoCTF/PicoCTF 2019/General Skills/mus1c.md",
     "PicoCTF/PicoCTF 2021",
     "PicoCTF/PicoCTF 2019/General Skills/plumbing.md",
-    "PicoCTF/PicoCTF 2019/General Skills/First Grep.md",
-    "PicoCTF/PicoCTF 2019/General Skills/Based.md",
     "PicoCTF/PicoCTF 2019/General Skills/strings it.md",
     "PicoCTF/PicoCTF 2019/General Skills/Lest Warm Up.md",
     "PicoCTF/PicoCTF 2019/General Skills/what's a net cat.md",
@@ -168,7 +178,6 @@
     "retos-bandit/Level 32 - 33.md",
     "retos-bandit/Level 31 - 32.md",
     "retos-bandit/Level 30 - 31.md",
-    "retos-bandit/Level 29 - 30.md",
-    "retos-bandit/Level 25 - 26.md"
+    "retos-bandit/Level 29 - 30.md"
   ]
 }
