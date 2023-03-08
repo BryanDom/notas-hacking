@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d0366b0970d7509c",
+        "id": "873546f38753bfeb",
         "type": "tabs",
         "children": [
           {
-            "id": "7b3d724ef5afa70c",
+            "id": "a00ef325f4383eef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/PicoCTF 2021/General Skills/Magikarp Ground Mission.md",
+                "file": "PicoCTF/Beginner PicoMini 2022/General Skills/PW Crack 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/PicoCTF 2021/General Skills/Magikarp Ground Mission.md",
+                "file": "PicoCTF/Beginner PicoMini 2022/General Skills/PW Crack 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/PicoCTF 2021/General Skills/Magikarp Ground Mission.md",
+                "file": "PicoCTF/Beginner PicoMini 2022/General Skills/PW Crack 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/PicoCTF 2021/General Skills/Magikarp Ground Mission.md"
+                "file": "PicoCTF/Beginner PicoMini 2022/General Skills/PW Crack 3.md"
               }
             }
           }
@@ -146,13 +146,27 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "deedb45c2af9fb4f",
+  "active": "a00ef325f4383eef",
   "lastOpenFiles": [
-    "PicoCTF/PicoCTF 2021/General Skills/Static ain't always noise.md",
+    "PicoCTF/Beginner PicoMini 2022/General Skills/PW Crack 2.md",
+    "PicoCTF/Beginner PicoMini 2022/General Skills/PW Crack 3.md",
+    "PicoCTF/Beginner PicoMini 2022/General Skills/PW Crack 1.md",
+    "PicoCTF/Beginner PicoMini 2022/General Skills/Glitch Cat.md",
+    "PicoCTF/Beginner PicoMini 2022/General Skills/fixme2.py.md",
+    "PicoCTF/Beginner PicoMini 2022/General Skills/fixme1.py.md",
+    "PicoCTF/Beginner PicoMini 2022/General Skills/Codebook.md",
+    "PicoCTF/Beginner PicoMini 2022/General Skills/convertme.py.md",
+    "PicoCTF/Beginner PicoMini 2022/General Skills/runme.py.md",
+    "PicoCTF/PicoCTF 2021/General Skills/Nice netcat....md",
+    "PicoCTF/Untitled.canvas",
+    "PicoCTF/PicoCTF 2019/General Skills/2Warm.md",
     "PicoCTF/PicoCTF 2021/General Skills/Magikarp Ground Mission.md",
+    "PicoCTF/Beginner PicoMini 2022/General Skills",
+    "PicoCTF/Beginner PicoMini 2022",
+    "PicoCTF/Untitled.md",
+    "PicoCTF/PicoCTF 2021/General Skills/Static ain't always noise.md",
     "PicoCTF/PicoCTF 2021/General Skills/Wave a flag.md",
     "PicoCTF/PicoCTF 2021/General Skills/Tab, Tab, Attack.md",
-    "PicoCTF/PicoCTF 2021/General Skills/Nice netcat....md",
     "PicoCTF/PicoCTF 2019/General Skills/First Grep.md",
     "PicoCTF/PicoCTF 2021/General Skills/Obedient Cat.md",
     "PicoCTF/PicoCTF 2019/General Skills/Based.md",
@@ -164,20 +178,8 @@
     "PicoCTF/PicoCTF 2019/General Skills/strings it.md",
     "PicoCTF/PicoCTF 2019/General Skills/Lest Warm Up.md",
     "PicoCTF/PicoCTF 2019/General Skills/what's a net cat.md",
-    "PicoCTF/PicoCTF 2019/General Skills/Warmed Up.md",
-    "PicoCTF/PicoCTF 2019/General Skills/Bases.md",
-    "retos-bandit/Level 16 - 17.md",
-    "retos-bandit/Level 21 - 22.md",
-    "PicoCTF/PicoCTF 2019/General Skills/2Warm.md",
-    "retos-bandit/Level 0 - 1.md",
-    "retos-bandit/Level 27 - 28.md",
-    "retos-bandit/Plantilla.md",
     "PicoCTF/PicoCTF 2019/General Skills",
     "PicoCTF/PicoCTF 2019",
-    "PicoCTF",
-    "retos-bandit/Level 28 - 29.md",
-    "retos-bandit/Level 26 - 27.md",
-    "retos-bandit/Level 24 - 25.md",
-    "retos-bandit/Level 33 - 34.md"
+    "PicoCTF"
   ]
 }
