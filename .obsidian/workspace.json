@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "873546f38753bfeb",
+        "id": "4140dd3bd67143f8",
         "type": "tabs",
         "children": [
           {
-            "id": "a00ef325f4383eef",
+            "id": "cc619e0ac26be0fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Beginner PicoMini 2022/General Skills/PW Crack 3.md",
+                "file": "PicoCTF/PicoCTF 2019/Web Exploitation/picobrowser.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "459c70b772905df5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/PicoCTF 2019/Web Exploitation/Client-side-again.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF/Beginner PicoMini 2022/General Skills/PW Crack 3.md",
+                "file": "PicoCTF/PicoCTF 2019/Web Exploitation/Client-side-again.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF/Beginner PicoMini 2022/General Skills/PW Crack 3.md",
+                "file": "PicoCTF/PicoCTF 2019/Web Exploitation/Client-side-again.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF/Beginner PicoMini 2022/General Skills/PW Crack 3.md"
+                "file": "PicoCTF/PicoCTF 2019/Web Exploitation/Client-side-again.md"
               }
             }
           }
@@ -146,10 +159,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a00ef325f4383eef",
+  "active": "459c70b772905df5",
   "lastOpenFiles": [
-    "PicoCTF/Beginner PicoMini 2022/General Skills/PW Crack 2.md",
+    "PicoCTF/PicoCTF 2019.zip",
+    "PicoCTF/PicoCTF 2019/Web Exploitation/picobrowser.md",
+    "PicoCTF/PicoCTF 2019/Web Exploitation/dont-use-client-side.md",
+    "PicoCTF/PicoCTF 2019/Web Exploitation/logon.md",
+    "PicoCTF/PicoCTF 2019/Web Exploitation/where are the robots.md",
+    "PicoCTF/PicoCTF 2019/Web Exploitation/Insp3ct0r.md",
+    "PicoCTF/PicoCTF 2019/Web Exploitation/Client-side-again.md",
+    "PicoCTF/PicoCTF 2019/General Skills/2Warm.md",
+    "PicoCTF/PicoCTF 2019/Web Exploitation",
     "PicoCTF/Beginner PicoMini 2022/General Skills/PW Crack 3.md",
+    "PicoCTF/Beginner PicoMini 2022/General Skills/PW Crack 2.md",
     "PicoCTF/Beginner PicoMini 2022/General Skills/PW Crack 1.md",
     "PicoCTF/Beginner PicoMini 2022/General Skills/Glitch Cat.md",
     "PicoCTF/Beginner PicoMini 2022/General Skills/fixme2.py.md",
@@ -159,7 +181,6 @@
     "PicoCTF/Beginner PicoMini 2022/General Skills/runme.py.md",
     "PicoCTF/PicoCTF 2021/General Skills/Nice netcat....md",
     "PicoCTF/Untitled.canvas",
-    "PicoCTF/PicoCTF 2019/General Skills/2Warm.md",
     "PicoCTF/PicoCTF 2021/General Skills/Magikarp Ground Mission.md",
     "PicoCTF/Beginner PicoMini 2022/General Skills",
     "PicoCTF/Beginner PicoMini 2022",
@@ -171,13 +192,7 @@
     "PicoCTF/PicoCTF 2021/General Skills/Obedient Cat.md",
     "PicoCTF/PicoCTF 2019/General Skills/Based.md",
     "PicoCTF/PicoCTF 2021/General Skills",
-    "PicoCTF/PicoCTF 2021/Untitled.md",
-    "PicoCTF/PicoCTF 2019/General Skills/mus1c.md",
     "PicoCTF/PicoCTF 2021",
-    "PicoCTF/PicoCTF 2019/General Skills/plumbing.md",
-    "PicoCTF/PicoCTF 2019/General Skills/strings it.md",
-    "PicoCTF/PicoCTF 2019/General Skills/Lest Warm Up.md",
-    "PicoCTF/PicoCTF 2019/General Skills/what's a net cat.md",
     "PicoCTF/PicoCTF 2019/General Skills",
     "PicoCTF/PicoCTF 2019",
     "PicoCTF"
